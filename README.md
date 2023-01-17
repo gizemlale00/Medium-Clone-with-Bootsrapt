@@ -1,1 +1,1 @@
-# Medium-Clone-with-Bootsrapt
+# Medium-Clone-with-Bootstrap
